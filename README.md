@@ -13,7 +13,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
   <a>
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/551c9652-3f21-46fe-951b-a9fca816a868" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/149ad2ca-5fbc-4481-bb13-6d2d39475987" />
+
   </a>
   <a>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f00baa0b-02c3-460f-92aa-2cf9331bbe64" />
