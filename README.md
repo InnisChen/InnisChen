@@ -18,14 +18,11 @@
   <a>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/be0f3001-f406-4434-a6ad-822f55f527ab" />
   </a>
-
 </p>
 
 <p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=InnisChen&show_icons=true&locale=en&theme=tokyonight" alt="InnisChen" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=InnisChen&show_icons=true&locale=en&theme=default" alt="InnisChen" />
 </p>  
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=InnisChen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="InnisChen" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=InnisChen&show_icons=true&locale=en&layout=compact&theme=default" alt="InnisChen" />  
 </p>  
-
-  
